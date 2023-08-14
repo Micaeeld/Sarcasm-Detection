@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Detecting Sarcasm in Sentences
 This project aims to detect sarcasm in sentences using a data set in JSON format. The model uses the Natural Language Toolkit (NLTK) library and the Naive Bayes algorithm to classify sentences as sarcastic or not.
 
